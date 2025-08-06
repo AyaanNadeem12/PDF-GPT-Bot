@@ -51,7 +51,7 @@ You can find the full app walkthrough video in the `assets` folder:
 ## 🧪 Want to Try It?
 
 A `.exe` version is available on request.  
-[Feel free to reach out via email](mailto:ayaannadeem1205@gmail.com) for demo access or custom builds.
+[Feel free to reach out via email](mailto:ayaanbinnadeem1205@gmail.com) for demo access or custom builds.
 
 ---
 
@@ -72,10 +72,11 @@ For code access or collaboration, feel free to contact me directly.
 
 **Ayaan Nadeem**  
 Python Developer | Desktop Apps, Automation & AI/ML Tools  
- 📫 [Email](mailto:ayaannadeem1205@gmail.com)
+ 📫 [Email](mailto:ayaanbinnadeem1205@gmail.com)
 
 ---
 ##  🛡️ License
 **Demo Only** — All rights reserved.
+
 
 
